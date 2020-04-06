@@ -1,6 +1,4 @@
 # 海路数据库前端demo1
-
-## Project setup
 ```
 npm install
 ```
