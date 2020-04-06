@@ -3,7 +3,6 @@
 - 基于 Vue + Vuex + VueRouter + Sass + Element + Axios 搭建的个人空间
 - 
 ```
-## 主要步骤
 ### 项目初始化
 ```
 后台项目的环境安装配置
@@ -16,7 +15,7 @@ MySQL管理器——MySQL导入导出——MySQL的密码是root——选择还�
 3. 使用Postman测试后台项目接口是否正常
 ```
 ![PHP](https://github.com/zhenyuanshen/hailuVue-project/blob/master/images/1.png)
-### Compiles and minifies for production
+### 实现的主要功能
 ```
 ```
 
