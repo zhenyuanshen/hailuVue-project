@@ -24,7 +24,7 @@ MySQL管理器——MySQL导入导出——MySQL的密码是root——选择还�
 3. 通过验证之后，根据后台的响应状态跳转到项目主页
 4. http是无状态的，通过token方式维持用户的登录状态（前端后服务器之间存在跨域问题）
 ```
-
+![login](https://github.com/zhenyuanshen/hailuVue-project/upload/master/images/login.png)
 ### 用户管理
 ```
 
