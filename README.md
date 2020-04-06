@@ -14,7 +14,7 @@
 
 ### Compiles and minifies for production
 ```
-! [image] (https://github.com/zhenyuanshen/hailuVue-project/blob/master/images/1.png)
+![image](https://github.com/zhenyuanshen/hailuVue-project/blob/master/images/1.png)
 ```
 
 ### Run your tests
