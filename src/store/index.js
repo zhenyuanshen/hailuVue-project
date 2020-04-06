@@ -16,6 +16,6 @@ export default new Vuex.Store({
   modules: {
     user,
     exam,
-    test,
+    test
   }
 })

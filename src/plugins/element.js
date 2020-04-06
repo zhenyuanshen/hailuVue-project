@@ -28,7 +28,7 @@ import {
   Tabs,
   TabPane,
   Steps,
-  Step,
+  Step
 } from 'element-ui'
 
 Vue.use(Button)
