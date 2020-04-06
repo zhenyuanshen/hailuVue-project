@@ -8,13 +8,12 @@
 ```
 后台项目的环境安装配置
 1. 安装MySQL数据库（）
-
+![add image](https://github.com/zhenyuanshen/hailuVue-project/blob/master/images/1.png)
 2. 安装Node.js环境（因为使用的后台API接口依赖于Node.js）
 ```
 
 ### Compiles and minifies for production
 ```
-![image](https://github.com/zhenyuanshen/hailuVue-project/blob/master/images/1.png)
 ```
 
 ### Run your tests
