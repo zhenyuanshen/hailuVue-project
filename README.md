@@ -4,6 +4,7 @@
 - 
 ```
 ## 主要步骤
+![image](https://github.com/zhenyuanshen/hailuVue-project/blob/master/images/1.png)
 ### 项目初始化
 ```
 后台项目的环境安装配置
