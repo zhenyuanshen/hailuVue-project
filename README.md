@@ -1,6 +1,8 @@
 ## demo1
 ```
 - 基于 Vue + Vuex + VueRouter + Sass + Element + Axios 搭建的个人空间
+- 单页组件构建的 SPA 项目, 主 APP 入口下, 有 4 个子 App
+- 
 - 
 ```
 ## 项目初始化
@@ -46,9 +48,16 @@ this.$router.push('/login')
 ```
 ### 数据管理
 ```
+这部分基本上和fe文件中的一样
 1. 实现数据的展示，查询，移除
 2. 可以进行添加数据的操作（添加数据采用的是步骤条）
 3. 批量导出数据（xlsx格式）
+在src目录下新增Excel文件夹，里面包含Blob.js和Export2Excel.js
+安装三个依赖
+npm install -S file-saver
+npm install -S xlsx
+npm install -D script-loader
+进行方法调用即可
 ```
 ![data](https://github.com/zhenyuanshen/hailuVue-project/upload/master/images/data.png)
 ![detail](https://github.com/zhenyuanshen/hailuVue-project/upload/master/images/detail.png)
@@ -57,7 +66,7 @@ this.$router.push('/login')
 ### 数据分析
 ```
 1. 实现数据的统计分析（简单的统计分析，相关分析，聚类分析，回归分析）
-2. 生成对应的分析报告
+2. 生成对应的分析报告（这个部分没有做）
 ```
 ![analysis1](https://github.com/zhenyuanshen/hailuVue-project/upload/master/images/analysis1.png)
 ![analysis2](https://github.com/zhenyuanshen/hailuVue-project/upload/master/images/analysis2.png)
