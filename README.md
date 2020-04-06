@@ -6,7 +6,10 @@
 ## 主要步骤
 ### 项目初始化
 ```
-npm run serve
+后台项目的环境安装配置
+1. 安装MySQL数据库（）
+
+2. 安装Node.js环境（因为使用的后台API接口依赖于Node.js）
 ```
 
 ### Compiles and minifies for production
