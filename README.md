@@ -1,9 +1,18 @@
 ## demo1
 ```
 - 基于 Vue + Vuex + VueRouter + Sass + Element + Axios 搭建的个人空间
-- 单页组件构建的 SPA 项目, 主 APP 入口下, 有 4 个子 App
-- 
-- 
+- 组件的分拆与层级
+  - 统一的 App.Vue 入口，设置less属性
+  - Components 为基本的组件
+    1. 登陆页面的 login Box
+    2. 用户管理（user）页面的 Administrator 与 Users
+    3. 权限管理（rights）页面的 Rights
+    4. 数据管理（data）页面的 DataTable、Add、ExamDetail、SufferDetail 以及 TestTable
+            - DataTable 展示出来的部分数据
+            - Add 添加数据
+                - 采用步骤条的方式进行数据的添加
+            - xamDetail、SufferDetail 以及 TestTable
+              - 数据分模块具体的展示部分
 ```
 ## 项目初始化
 ```
