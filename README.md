@@ -11,7 +11,7 @@
 MySQL管理器——MySQL导入导出——MySQL的密码是root——选择还原的文件（vue_api_server-db-mydb.sql）——还原到的数据库名称（mydb）——导入）
 2. 安装Node.js环境（因为使用的后台API接口依赖于Node.js）
 ```
-![image](https://github.com/zhenyuanshen/hailuVue-project/blob/master/images/1.png)
+![PHP](https://github.com/zhenyuanshen/hailuVue-project/blob/master/images/1.png)
 ### Compiles and minifies for production
 ```
 ```
