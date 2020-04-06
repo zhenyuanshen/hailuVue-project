@@ -1,4 +1,4 @@
-# 海路数据库前端demo1
+# demo1
 ```
 npm install
 ```
