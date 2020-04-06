@@ -8,11 +8,17 @@
     2. 用户管理（user）页面的 Administrator 与 Users
     3. 权限管理（rights）页面的 Rights
     4. 数据管理（data）页面的 DataTable、Add、ExamDetail、SufferDetail 以及 TestTable
-            - DataTable 展示出来的部分数据
-            - Add 添加数据
-                - 采用步骤条的方式进行数据的添加
-            - xamDetail、SufferDetail 以及 TestTable
-              - 数据分模块具体的展示部分
+         - DataTable 展示出来的部分数据
+         - Add 添加数据
+            - 采用步骤条的方式进行数据的添加
+         - xamDetail、SufferDetail 以及 TestTable
+            - 数据分模块具体的展示部分
+    5. 数据分析（report）页面的 Report 和 Analysis
+         - Analysis 进行数据的统计分析
+            - 基本的描述性统计，相关分析，聚类分析，回归分析
+         - Report 生成统计报告
+            - ***********
+          
 ```
 ## 项目初始化
 ```
