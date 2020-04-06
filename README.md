@@ -36,6 +36,8 @@ this.$router.push('/login')
 1. 可以对用户的的基本信息进行查询，修改，删除等操作
 2. 可以增加新的用户
 ```
+![revise](https://github.com/zhenyuanshen/hailuVue-project/upload/master/images/revise.png)
+![increase](https://github.com/zhenyuanshen/hailuVue-project/upload/master/increase/revise.png)
 ### 权限管理
 ```
 
