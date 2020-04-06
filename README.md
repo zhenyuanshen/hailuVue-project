@@ -56,5 +56,8 @@ this.$router.push('/login')
 ![download](https://github.com/zhenyuanshen/hailuVue-project/upload/master/images/download.png)
 ### 数据分析
 ```
-
+1. 实现数据的统计分析（简单的统计分析，相关分析，聚类分析，回归分析）
+2. 生成对应的分析报告
 ```
+![analysis1](https://github.com/zhenyuanshen/hailuVue-project/upload/master/images/analysis1.png)
+![analysis2](https://github.com/zhenyuanshen/hailuVue-project/upload/master/images/analysis2.png)
