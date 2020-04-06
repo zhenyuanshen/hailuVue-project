@@ -3,7 +3,7 @@
 - 基于 Vue + Vuex + VueRouter + Sass + Element + Axios 搭建的个人空间
 - 
 ```
-# 主要步骤
+## 主要步骤
 ### 项目初始化
 ```
 npm run serve
