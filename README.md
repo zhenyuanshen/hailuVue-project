@@ -3,7 +3,7 @@
 - 基于 Vue + Vuex + VueRouter + Sass + Element + Axios 搭建的个人空间
 - 
 ```
-### 项目初始化
+## 项目初始化
 ```
 后台项目的环境安装配置
 1. 安装MySQL数据库（安装PHP，把mydb.sql还原成一个真正的数据库
@@ -15,20 +15,24 @@ MySQL管理器——MySQL导入导出——MySQL的密码是root——选择还�
 3. 使用Postman测试后台项目接口是否正常
 ```
 ![PHP](https://github.com/zhenyuanshen/hailuVue-project/blob/master/images/1.png)
-### 实现的主要功能
+## 实现的主要功能
+### 登录退出
 ```
 
 ```
-
-### Run your tests
-```
-npm run test
+### 用户管理
 ```
 
-### Lints and fixes files
 ```
-npm run lint
+### 权限管理
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
+### 数据管理
+```
+
+```
+### 数据分析
+```
+
+```
