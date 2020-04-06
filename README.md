@@ -36,16 +36,24 @@ this.$router.push('/login')
 1. 可以对用户的的基本信息进行查询，修改，删除等操作
 2. 可以增加新的用户
 ```
+![list](https://github.com/zhenyuanshen/hailuVue-project/upload/master/images/list.png)
 ![revise](https://github.com/zhenyuanshen/hailuVue-project/upload/master/images/revise.png)
-![increase](https://github.com/zhenyuanshen/hailuVue-project/upload/master/increase/revise.png)
+![increase](https://github.com/zhenyuanshen/hailuVue-project/upload/master/images/increase.png)
 ### 权限管理
 ```
-
+还没有设置
+1. 设置管理员权限（一级权限，二级权限...）
 ```
 ### 数据管理
 ```
-
+1. 实现数据的展示，查询，移除
+2. 可以进行添加数据的操作（添加数据采用的是步骤条）
+3. 批量导出数据（xlsx格式）
 ```
+![data](https://github.com/zhenyuanshen/hailuVue-project/upload/master/images/data.png)
+![detail](https://github.com/zhenyuanshen/hailuVue-project/upload/master/images/detail.png)
+![increase2](https://github.com/zhenyuanshen/hailuVue-project/upload/master/images/increase2.png)
+![download](https://github.com/zhenyuanshen/hailuVue-project/upload/master/images/download.png)
 ### 数据分析
 ```
 
