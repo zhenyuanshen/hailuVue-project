@@ -1,9 +1,10 @@
 # demo1
 ```
-npm install
+- 基于 Vue + Vuex + VueRouter + Sass + Element + Axios 搭建的个人空间
+- 
 ```
-
-### Compiles and hot-reloads for development
+# 主要步骤
+### 项目初始化
 ```
 npm run serve
 ```
